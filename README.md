@@ -49,6 +49,9 @@ A passweod is displayed after the questions have been answered.
 Access:
 ![password](../Password-creator-Javascript/Assets/password.png)
 
+All screen shots are linked in the assets folder
+
+
 ## Links
 [deployed-site] (https://oyindami.github.io/Passwrod-creator-/)
 [github-repo] (https://github.com/oyindami/Passwrod-creator-)
