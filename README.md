@@ -50,6 +50,8 @@ Access:
 ![password](../Password-creator-Javascript/Assets/password.png)
 
 ## Links
+[deployed-site] (https://oyindami.github.io/Passwrod-creator-/)
+[github-repo] (
 
 ## Contact me
 
