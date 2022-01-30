@@ -51,7 +51,7 @@ Access:
 
 ## Links
 [deployed-site] (https://oyindami.github.io/Passwrod-creator-/)
-[github-repo] (
+[github-repo] (https://github.com/oyindami/Passwrod-creator-)
 
 ## Contact me
 
