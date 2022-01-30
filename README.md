@@ -26,19 +26,19 @@ THEN the password is either displayed in an alert or written to the page
 
 This project is designed for a user to be able to view a password after answering a series of prompts
 
-The user is prompted to answer the folllowing questions:
+The user is prompted to answer the folllowing questions: (All screen shots are in the access folder)
 
 - The user is prompted to enter the number of letters from 8-128,
-  ![enterpassword](../Password-creator-Javascript/Assets/enter.password.png)
+ ![image](https://user-images.githubusercontent.com/89395824/151697774-9376a98d-4135-4590-9e6a-75f1f7092cd2.png)
 
 - The user is prompted to enter if they would want lowercase letters,
-  ![lowercase](../Password-creator-Javascript/Assets/req.lowercase.png)
+ 
 
 - The user is prompted to enter if they would want uppercase letters,
-  ![uppercase](../Password-creator-Javascript/Assets/req.lowercase.png)
+  
 
 - The user is prompted to enter if they would want numbers,
-  ![numbercase](../Password-creator-Javascript/Assets/req.numbers.png)
+ 
 
 In the first question, if the user enters a number outside of the given range (8-128), the user is prompted with a wrong password length.
 
@@ -49,7 +49,7 @@ A passweod is displayed after the questions have been answered.
 Access:
 ![password](../Password-creator-Javascript/Assets/password.png)
 
-![image](https://user-images.githubusercontent.com/89395824/151697774-9376a98d-4135-4590-9e6a-75f1f7092cd2.png)
+
 
 All screen shots are linked in the assets folder
 
