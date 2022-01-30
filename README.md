@@ -42,7 +42,6 @@ The user is prompted to answer the folllowing questions: (All screen shots are i
 
 In the first question, if the user enters a number outside of the given range (8-128), the user is prompted with a wrong password length.
 
-![wrong-length](../Password-creator-Javascript/Assets/wrongpasswordlength.png)
 
 A passweod is displayed after the questions have been answered.
 
