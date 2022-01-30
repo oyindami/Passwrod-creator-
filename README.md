@@ -49,6 +49,8 @@ A passweod is displayed after the questions have been answered.
 Access:
 ![password](../Password-creator-Javascript/Assets/password.png)
 
+![image](https://user-images.githubusercontent.com/89395824/151697774-9376a98d-4135-4590-9e6a-75f1f7092cd2.png)
+
 All screen shots are linked in the assets folder
 
 
